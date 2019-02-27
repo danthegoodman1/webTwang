@@ -15,3 +15,7 @@ The firmware for the circuit playground express to send data out through serial
 ### webServerAndClient
 
 The big ol' folder that uses nextjs and a custom global state manager plus a beautiful ui that I made to represent the game
+
+_Note the screenshot is from when we were adapting it from being a line to being a circular interface so the circle overlay ins't super refined_
+
+![Screenshots](https://github.com/danthegoodman1/webTwang/blob/master/screenshot.png)
